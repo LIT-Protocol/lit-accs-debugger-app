@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+a{
+  color: dodgerblue;
+  font-weight: bold;
+}
+.err-msg{
+  padding-top: 24px;
+}
